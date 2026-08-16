@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://utilityshedsforhomes.com/</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://utilityshedsforhomes.com/utilityshedsforhomes.com/privacy</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url><loc>https://utilityshedsforhomes.com/utilityshedsforhomes-buyers-handbook-2026.html</loc><lastmod>2026-07-14</lastmod></url>
-  <url><loc>https://utilityshedsforhomes.com/smart-utilityshedsforhomes-shopping-2026.html</loc><lastmod>2026-07-18</lastmod></url>
-  <url><loc>https://utilityshedsforhomes.com/what-we-look-for-utilityshedsforhomes-2026.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://utilityshedsforhomes.com/utilityshedsforhomes-worth-the-upgrade-2026.html</loc><lastmod>2026-08-11</lastmod></url>
-  <url><loc>https://utilityshedsforhomes.com/utilityshedsforhomes-market-2026.html</loc><lastmod>2026-08-14</lastmod></url>
+  <url><loc>https://utilityshedsforhomes.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://utilityshedsforhomes.com/privacy.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://utilityshedsforhomes.com/smart-utilityshedsforhomes-shopping-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://utilityshedsforhomes.com/utilityshedsforhomes-buyers-handbook-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://utilityshedsforhomes.com/utilityshedsforhomes-market-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://utilityshedsforhomes.com/utilityshedsforhomes-worth-the-upgrade-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://utilityshedsforhomes.com/what-we-look-for-utilityshedsforhomes-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
